@@ -1960,6 +1960,11 @@ span{
 
 }
 
+@media screen and (max-width:991px){
+    .small-screen{
+        display: block;
+    }
+}
 @media screen and (max-width:767px){
     .blog .home-text .sub-heading {
         font-size: 14px;
@@ -2083,10 +2088,10 @@ span{
     .small-screen{
         display: block;
     }
-    .logo {
+    /* .logo {
 
         max-width: 65px;
-    }
+    } */
 
     .side-menu {
         width: 100%;
