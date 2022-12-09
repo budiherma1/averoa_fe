@@ -164,9 +164,9 @@ $('#blog-carousal').owlCarousel({
     loop:true,
     autoplay:true,
     // center:true,
-    margin:30,
-    nav:true,
-    navText : ['<i class="fa fa-angle-left" aria-hidden="true"></i>','<i class="fa fa-angle-right" aria-hidden="true"></i>'],
+    // margin:30,
+    // nav:true,
+    // navText : ['<i class="fa fa-angle-left" aria-hidden="true"></i>','<i class="fa fa-angle-right" aria-hidden="true"></i>'],
     // navText : ['<i class="fa fa-angle-left" aria-hidden="true"></i>','<i class="fa fa-angle-right" aria-hidden="true"></i>'],
     // dots:true,
     // responsive:{
